@@ -1,7 +1,7 @@
 # Democratic Union of Socialist States (DUSS) Army forces
 
 ## Socialist Republic of Notia (SRN) Army 
-[Notian Army 1st Corps](/OPAT-Brief/INTELLIGENCE/Notia_1st_Corps.html)
+[Notian Army 1st Corps](/OPAC-Brief/INTELLIGENCE/Notia_1st_Corps.html)
 - 10th Armored Division (T-80)
 - 11th Mechanized Division (BMP-3)
 - 12th Motorized Division (BTR-80)
@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-[Notian Army 2nd Corps](/OPAT-Brief/INTELLIGENCE/Notia_2nd_Corps.html) 
+[Notian Army 2nd Corps](/OPAC-Brief/INTELLIGENCE/Notia_2nd_Corps.html) 
 - 21th Mechanized Division (BMP-1)
 - 22nd Motorized Division (BTR-80)
 - 23rd Air Defense Division
@@ -27,7 +27,7 @@
 <br>
 <br>
 <br>
-[Notian Army 3rd Corps](/OPAT-Brief/INTELLIGENCE/Notia_3rd_Corps.html) 
+[Notian Army 3rd Corps](/OPAC-Brief/INTELLIGENCE/Notia_3rd_Corps.html) 
 - 30th Armored Division (T-72)
 - 31st Mechanized Division (BMP-2)
 - 32nd Motorized Division (BTR-80)
@@ -41,7 +41,7 @@
 <br>
 <br>
 <br>
-[Notian Army 4th Corps - Reserves, need to be mobilized ](/OPAT-Brief/INTELLIGENCE/Notia_4th_Corps.html) 
+[Notian Army 4th Corps - Reserves, need to be mobilized ](/OPAC-Brief/INTELLIGENCE/Notia_4th_Corps.html) 
 - 41st Mechanized Division (BMP-1)
 - 42nd Mechanized Division (BMP-3)
 - 43rd Air Defense Division
@@ -65,7 +65,7 @@
 <br>
 ## Democratic Republic of Kambiland (DRK) 
 
-[Kambiland Army 5th Corps](/OPAT-Brief/INTELLIGENCE/Kambiland_5th_Corps.html) 
+[Kambiland Army 5th Corps](/OPAC-Brief/INTELLIGENCE/Kambiland_5th_Corps.html) 
 - 50th Armored Division (T-80)
 - 51st Armored Division (T-72)
 - 52th Mechanized Division (BMP-1)
@@ -79,7 +79,7 @@
 <br>
 <br>
 <br>
-[Kambiland Army 6th Corps](/OPAT-Brief/INTELLIGENCE/Kambiland_6th_Corps.html) 
+[Kambiland Army 6th Corps](/OPAC-Brief/INTELLIGENCE/Kambiland_6th_Corps.html) 
 - 60th Armored Division (T-72)
 - 61st Mechanized Division (BMP-2)
 - 62th Mechanized Division (BMP-3)
