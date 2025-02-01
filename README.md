@@ -9,7 +9,7 @@
 <br>
 <br>
 ### Intelligence 
-- [Intelligence](/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [Intelligence](/OPAC-Brief/INTELLIGENCE/Intelligence.html)
 - [Report intelligence after an event](https://cm.132virtualwing.org/campaigns)
 <br>
 <br>
