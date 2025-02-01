@@ -1,7 +1,7 @@
 # Democratic Union of Socialist States (DUSS) Army forces
 
 ## Socialist Republic of Notia (SRN) Army 
-[Notian Army 1st Corps](/OPAC-Brief/INTELLIGENCE/Notia_1st_Corps.html)
+[Notian Army 1st Corps](/OPAC-Brief/INTELLIGENCE/Notian_1st_Corps.html)
 - 10th Armored Division (T-80)
 - 11th Mechanized Division (BMP-3)
 - 12th Motorized Division (BTR-80)
@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-[Notian Army 2nd Corps](/OPAC-Brief/INTELLIGENCE/Notia_2nd_Corps.html) 
+[Notian Army 2nd Corps](/OPAC-Brief/INTELLIGENCE/Notian_2nd_Corps.html) 
 - 21th Mechanized Division (BMP-1)
 - 22nd Motorized Division (BTR-80)
 - 23rd Air Defense Division
@@ -27,7 +27,7 @@
 <br>
 <br>
 <br>
-[Notian Army 3rd Corps](/OPAC-Brief/INTELLIGENCE/Notia_3rd_Corps.html) 
+[Notian Army 3rd Corps](/OPAC-Brief/INTELLIGENCE/Notian_3rd_Corps.html) 
 - 30th Armored Division (T-72)
 - 31st Mechanized Division (BMP-2)
 - 32nd Motorized Division (BTR-80)
@@ -41,7 +41,7 @@
 <br>
 <br>
 <br>
-[Notian Army 4th Corps - Reserves, need to be mobilized ](/OPAC-Brief/INTELLIGENCE/Notia_4th_Corps.html) 
+[Notian Army 4th Corps - Reserves, need to be mobilized ](/OPAC-Brief/INTELLIGENCE/Notian_4th_Corps.html) 
 - 41st Mechanized Division (BMP-1)
 - 42nd Mechanized Division (BMP-3)
 - 43rd Air Defense Division
