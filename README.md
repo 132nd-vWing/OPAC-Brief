@@ -14,10 +14,10 @@
 <br>
 <br>
 ### Combined Joint Task Force-23 (CJTF-23) Orders
-- [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
+- [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
 <br>
 - [CJTF 23 - Directions&Guidance for D1 (TO BE ISSUED BEFORE ATO DAY 1)](/OPAC-Brief/ORDERS/JFC/TOBEISSUED BY JFC.pdf)
-- [CJTF 23 - Update on friendly situation combatflite for D1 (TO BE ISSUED BEFORE ATO DAY 1 ](/OPAC-Brief/COMBATFLITE/TOBEISSUED BY JFC.cf)
+- [CJTF 23 - Update on friendly situation combatflite for D1 (TO BE ISSUED BEFORE ATO DAY 1) ](/OPAC-Brief/COMBATFLITE/TOBEISSUED BY JFC.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
@@ -30,7 +30,7 @@
 <br>
 <br>
 ## Mission Information
-- [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html)  
+- [Weather forecast + time (current + next 3 events)](/OPAC-Brief/MISSION INFORMATION/Weather.html)  
 - [Available ordnance](/OPAC-Brief/MISSION INFORMATION/OPAC Ordnance.pdf) 
 - [Maintenance and logisitcal status](/OPAC-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Standard Conventional Loads all aircrafts](/OPAC-Brief/MISSION INFORMATION/OPAC JFACC Standard Conventional Loads.xlsx)
