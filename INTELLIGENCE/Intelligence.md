@@ -11,7 +11,7 @@
 
 ### Notian Army
 - [Notian Army](/OPAC-Brief/INTELLIGENCE/DUSS_Army.html)
-- [INTREP VID OPAC-003 - Notian ground combat tactics](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID OPAR-003 - Syrian ground combat tactics.pdf)
+- [INTREP VID OPAC-003 - Notian ground combat tactics](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID OPAC-003 - Notian and Kambiland ground combat tactics.pdf)
 
 ### Notian Air Force
 - [INTREP VID OPAC-001 - Enemy air assets in Notia and Kambiland](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID OPAC-001 - Enemy Air Assets in Notia and Kambiland.pdf)
