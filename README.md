@@ -1,7 +1,7 @@
 # OPERATION ARCTIC CITADEL (OPAC)
 <br>
 
-[NEW TO OPAC? START HERE](/OPAR-Brief/ADMIN/Start.html)  
+[NEW TO OPAC? START HERE](/OPAC-Brief/ADMIN/Start.html)  
 <br>
 
 ### Situation
@@ -13,36 +13,36 @@
 - [Report intelligence after an event](https://cm.132virtualwing.org/campaigns)
 <br>
 <br>
-### CJTF-82 Orders
-- [CJTF-82 Operations Order](/OPAR-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
+### Combined Joint Task Force-23 (CJTF-23) Orders
+- [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/CJTF/OPAR_CJTF_JFC OPERATION ORDER.pdf)
 <br>
-- [CJTF 82 - Directions&Guidance for D12](/OPAR-Brief/ORDERS/CJTF/OPAR CJTF DIRECTION AND GUIDANCE D12.pdf)
-- [CJTF 82 - Update on friendly situation combatflite ](/OPAR-Brief/COMBATFLITE/OPAR Friendly situation.cf)
+- [CJTF 23 - Directions&Guidance for D1 (TO BE ISSUED BEFORE ATO DAY 1)](/OPAC-Brief/ORDERS/JFC/TOBEISSUED BY JFC.pdf)
+- [CJTF 23 - Update on friendly situation combatflite for D1 (TO BE ISSUED BEFORE ATO DAY 1 ](/OPAC-Brief/COMBATFLITE/TOBEISSUED BY JFC.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
-- [Joint Air Operations Plan (JAOP) ](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC JAOP.pdf)
+- [Joint Air Operations Plan (JAOP) (TO BE ISSUED BY JFACC PRIOR TO D1) ](/OPAC-Brief/ORDERS/JFACC/TOBEISSUEDBYJFACC.pdf)
 <br>
 
-- [Targeting meeting for D12](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D12.pdf)
-- [Airspace Control Order (ACO) D12](/OPAR-Brief/ORDERS/JFACC/OPAR_D12_ACO.cf)
+- [Targeting meeting for D0 TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D12.pdf)
+- [Airspace Control Order (ACO) D0 (TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR_D12_ACO.cf)
 - [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
 <br>
 <br>
 <br>
 ## Mission Information
-- [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html) 
-- [Available ordnance Airbases](/OPAR-Brief/MISSION INFORMATION/OPAR Ordnance.pdf) 
-- [Available ordnance CVN](/OPAR-Brief/MISSION INFORMATION/OPAR Ordnance CVN.pdf) 
-- [Maintenance and logisitcal status](/OPAR-Brief/MISSION INFORMATION/Maintenance.html) 
-- [Presets](/OPAR-Brief/COMMUNICATIONS/PRESETS.html) 
+- [Weather forecast + time (current + next 3 events)](/OPAR-Brief/MISSION INFORMATION/Weather.html)  
+- [Available ordnance](/OPAC-Brief/MISSION INFORMATION/OPAC Ordnance.pdf) 
+- [Maintenance and logisitcal status](/OPAC-Brief/MISSION INFORMATION/Maintenance.html) 
+- [Standard Conventional Loads all aircrafts](/OPAC-Brief/MISSION INFORMATION/OPAC JFACC Standard Conventional Loads.xlsx)
+- [Presets](/OPAC-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
 - [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
-- [Airspace Control Plan (ACP)](/OPAR-Brief/MISSION INFORMATION/OPAR ACP.cf)
+- [Airspace Control Plan (ACP) - TO BE ISSUED BY JFACC PRIOR TO D0](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBYJFACC.cf)
 
-- [AET-100 OPAR v2.2](/OPAR-Brief/MISSION INFORMATION/AET-100 OPAR v2.2.pdf)
-- [TAT-101 OPAR v2.1](/OPAR-Brief/MISSION INFORMATION/TAT-101 OPAR v2.1.pdf)
+- [AET-100 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC AET-100 Authentication Encruption Table.pdf)
+- [TAT-101 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC TAT-101 Transmission Authentication Table.pdf)
 
 
 <br>
