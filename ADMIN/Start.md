@@ -30,7 +30,7 @@ some administrative information about the campaign construct. For any questions 
 #### Step 3: Combined Joint Task Force 23 Operations Order
 Next you should read the operations order for CJTF-23 (which we all are a part of). This order gives the overall guidance to the entire force
 (both ground, air and sea). This operation order is governing the entire campaign.
-- [CJTF 23 OP ORDER](/OPAR-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
+- [CJTF 23 OP ORDER](/OPAC-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
 <br>
 <br>
 
@@ -40,7 +40,7 @@ This step is something you should review before every event where you attend. Be
 INTSUMs contain relevant intelligence from the last event plus assessment for future events. (NOTE: VIS only get what pilots are reporting, so make sure to support VIS
 by providing a accurate report after mission completion).
 In addition to the VIS INTSUMs there is several other Intelligence Reports (INTREP) that cover certain topics. 
-- [Intelligence](https://132nd-vwing.github.io/OPAR-Brief/INTELLIGENCE/Intelligence.html)
+- [Intelligence](/OPAC-Brief/INTELLIGENCE/Intelligence.html)
 <br>
 <br>
 
