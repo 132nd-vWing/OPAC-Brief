@@ -55,7 +55,7 @@ CJTF-23.
 #### Step 6: Special Instructions (SPINS)
 Next you should read the SPINS. This is a single document that governs air operations for the entire force. This document contains various information, such as command and control, 
 risk levels, A-A information, tanker information etc.
-- [SPINS TO BE ISSUED BU JFACC](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBY JFACC.pdf)
+- [SPINS TO BE ISSUED BY JFACC](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBY JFACC.pdf)
 <br>
 <br>
 
