@@ -5,7 +5,7 @@
 <br>
 
 ### Situation
-- [Road to war (Scenario)](/OPAR-Brief/SITUATION/132nd OP ACTIVE RESOLVE Road to War brief v2.0.pdf) 
+- [Road to war (Scenario)](/OPAC-Brief/SITUATION/132nd OP ARCTIC CITADEL Introduction Brief.pdf) 
 <br>
 <br>
 ### Intelligence 
