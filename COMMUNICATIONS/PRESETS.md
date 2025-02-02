@@ -1,20 +1,20 @@
 # PRESETS
 
-- [A-10 Presets](/TRMA-Brief/COMMUNICATIONS/A10_presets.pdf) 
-- [F/A-18 Presets](/TRMA-Brief/COMMUNICATIONS/F18_presets.pdf)  
-- [F-16 Presets](/TRMA-Brief/COMMUNICATIONS/F16_presets.pdf)  
-- [F-14 Presets](/TRMA-Brief/COMMUNICATIONS/F-14B_presets.pdf)
-- [AH-64 Presets] (NOT UPDATED)
-- [OH-58 Presets](/TRMA-Brief/COMMUNICATIONS/OH58_presets.pdf)  
+- [A-10 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/A10_presetsto be.pdf) 
+- [F/A-18 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/F18_presetsto be.pdf)  
+- [F-16 Presets] - TO BE ISSUED(/OPAC-Brief/COMMUNICATIONS/F16_presetstobe.pdf)  
+- [F-14 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/F-14B_presetsto be.pdf)
+- [AH-64 Presets - TO BE ISSUED] (NOT UPDATED)
+- [OH-58 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/OH58_presetstobe.pdf)  
 
 ## DATALINK
-- [Datalink onepager](/TRMA-Brief/COMMUNICATIONS/Datalink.pdf)  
+- [Datalink onepager](/OPAC-Brief/COMMUNICATIONS/OPAC Datalink.pdf)  
 
 
 ## TRMA communication masterfile
 (In case anyone want to create own presets or need all freqs in use)
-- [TRMA Communications masterfile](/TRMA-Brief/COMMUNICATIONS/TRMA Frequency and callsign master list.xlsx)
+- [OPAC Communications masterfile](/OPAC-Brief/COMMUNICATIONS/OPAC Frequency and callsign master list.xlsx)
 
 
 ## Back
-[Back to frontpage](https://132nd-vwing.github.io/TRMA-Brief/)
+[Back to frontpage](https://132nd-vwing.github.io/OPAC-Brief/)

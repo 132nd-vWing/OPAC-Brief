@@ -23,10 +23,9 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) (TO BE ISSUED BY JFACC PRIOR TO D1) ](/OPAC-Brief/ORDERS/JFACC/TOBEISSUEDBYJFACC.pdf)
 <br>
-
 - [Targeting meeting for D0 TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D12.pdf)
 - [Airspace Control Order (ACO) D0 (TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR_D12_ACO.cf)
-- [Standard Conventional Loads all aircrafts](/OPAR-Brief/ORDERS/JFACC/OPAR JFACC Standard Conventional Loads.xlsx)
+
 <br>
 <br>
 <br>
@@ -35,10 +34,10 @@
 - [Available ordnance](/OPAC-Brief/MISSION INFORMATION/OPAC Ordnance.pdf) 
 - [Maintenance and logisitcal status](/OPAC-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Standard Conventional Loads all aircrafts](/OPAC-Brief/MISSION INFORMATION/OPAC JFACC Standard Conventional Loads.xlsx)
-- [Presets](/OPAC-Brief/COMMUNICATIONS/PRESETS.html) 
-- [SPINS](/OPAR-Brief/MISSION INFORMATION/OPAR JFACC STANDING SPINS.pdf)
-- [Airfield information](/OPAR-Brief/MISSION INFORMATION/Airfields.html)
-- [Carrier information](/OPAR-Brief/MISSION INFORMATION/Carrier.html)
+- [Presets and Datalink](/OPAC-Brief/COMMUNICATIONS/PRESETS.html) 
+- [SPINS (DRAFT, FINAL VERSION TO BE ISSUED)](/OPAC-Brief/MISSION INFORMATION/OPAC STANDING SPINS.pdf)
+- [Airfield information](/OPAC-Brief/MISSION INFORMATION/Airfields.html)
+- [Carrier information - TO BE ISSUED PRIOR TO D5](/OPAC-Brief/MISSION INFORMATION/TOBEISSUEDBEFORED5.html)
 - [Airspace Control Plan (ACP) - TO BE ISSUED BY JFACC PRIOR TO D0](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBYJFACC.cf)
 
 - [AET-100 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC AET-100 Authentication Encruption Table.pdf)
@@ -49,7 +48,7 @@
 <br>
 <br>
 ## Admin
-[Admin info](/OPAR-Brief/ADMIN/Admin.html) | [Tacview and Recordings](/OPAR-Brief/ADMIN/Recordings.html) | [Archive Orders](/OPAR-Brief/ORDERS/ARCHIVE.html)
+[Admin info](/OPAC-Brief/ADMIN/Admin.html) | [Tacview and Recordings](/OPAC-Brief/ADMIN/Recordings.html) | 
 
 
 
@@ -68,8 +67,8 @@ Is published on the 132nd website
 <br>
 ### JFACC and VIS TTP
 For volunteers in the roles of JFACC and/or VIS that is planning and executing the air campaign, the following TTPs are available:
-- [JFACC TTP](/OPAR-Brief/ADMIN/JFACC TTP v1.0.pdf)
-- [VIS TTP](/OPAR-Brief/ADMIN/VIS TTP v0.3.pdf)
+- [JFACC TTP](/OPAC-Brief/ADMIN/JFACC TTP v1.0.pdf)
+- [VIS TTP](/OPAC-Brief/ADMIN/VIS TTP v0.3.pdf)
 <br>
 <br>
 <br>
