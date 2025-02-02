@@ -36,11 +36,9 @@
 -  _4163rd Air Defence BN  (**attached** to 413th Mechanized Brigade)_
 - 4164th SA-8 BN
 - 4165th SA-15 BN
-
 <br>
 <br>
 <br>
-
 ## 42nd Mechanized Division (BMP-3)
 **421th Mechanized Brigade**
 - 4211th Mechanized BN
@@ -73,12 +71,9 @@
 -  _4263rd Air Defence BN  (**attached** to 423th Mechanized Brigade)_
 - 4264th SA-8 BN
 - 4265th SA-15 BN
-
-
 <br>
 <br>
 <br>
-
 ## 43rd Motorized Division (BTR-80)
 **431th Motorized Brigade**
 - 4311th Motorized BN
@@ -111,10 +106,25 @@
 -  _4363rd Air Defence BN  (**attached** to 433rd Motorized Brigade)_
 - 4364th SA-8 BN
 - 4365th SA-15 BN
-
-
-
-
+<br>
+<br>
+<br>
+## 43rd Air Defense Division
+-  _416th Air Defence Regiment (**Attached** to 41st Mechanized Division)_
+-  _426th Air Defence Regiment (**Attached** to 42nd Mechanized Division)_
+-  _436th Air Defence Regiment (**Attached** to 43rd Motorized Division)_
+- 431st SA-6 BN
+- 432nd SA-11 BN
+- 433rd HQ BN
+<br>
+<br>
+<br>
+## 44th Rocket artillery regiment
+- 441st Heavy Rocket Artillery BN
+- 442nd Heavy Rocket Artillery BN
+<br>
+<br>
+<br>
 ## Back
 - [Back to Notian Army](/OPAC-Brief/INTELLIGENCE/DUSS_Army.html) 
 - [Back to frontpage](https://132nd-vwing.github.io/OPAC-Brief/)

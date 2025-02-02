@@ -30,18 +30,14 @@
 **251st Recon BN (From 25th Recon Regiment)**
 
 **216th Air Defence Regiment**
--  _2161st Air Defence BN  (**attached** to 211st Mechanized Brigade)_
+- _2161st Air Defence BN  (**attached** to 211st Mechanized Brigade)_
 - _2162nd Air Defence BN (**attached** to 212nd Mechanized Brigade)_
 - _2163rd Air Defence BN (**attached** to 213rd Mechanized Brigade)_
 - 2164th SA-8 BN
 - 2165th SA-15 BN
-
-
 <br>
 <br>
 <br>
-
-
 ## 22nd Motorized Division (BTR-80)
 **221st Motorized  Brigade**
 - 2211th Motorized  BN
@@ -76,45 +72,41 @@
 -  _2263rd Air Defence BN  (**attached** to 223th Mechanized Brigade)_
 - 2264th SA-8 BN
 - 2265th SA-15 BN
-
-
-
 <br>
 <br>
 <br>
-
-
+## 23rd Air Defense Division
+-  _216th Air Defence Regiment (**Attached** to 21st Mechanized Division)_
+-  _226th Air Defence Regiment (**Attached** to 22th Motorized Division)_
+- 231st SA-6 BN
+- 232nd SA-11 BN
+- 233rd HQ BN
+<br>
+<br>
+<br>
+## 24th Rocket artillery regiment
+- 241st Heavy Rocket Artillery BN
+- 242nd Heavy Rocket Artillery BN
+<br>
+<br>
+<br>
 ## 25th Reconnaissance Regiment
 - _251st Recon BN (**attached** to 21th Mechanized Division)_
 - _252nd Recon BN (**attached** to 22nd Motorized Division)_
 - 254th Long Range Recon BN
 - 256th Special Recon BN
-
 <br>
 <br>
-
-
-
-## 26th Helicopter Regiment
-- 261st AHS (Attack Helicopter Squadron) - MI-24
-- 262nd THS (Transport Helicopter Squadron - MI-26
-- 263rd THS - MI-26
-
 <br>
-<br>
-
-
-
 ## 27th Logistics Regiment
 - 271st FARP BN
 - 272nd Medical BN
 - 273rd Logistics BN
 - 274th Logistics BN
 - 275th Logistics BN
-
-
-
-
+<br>
+<br>
+<br>
 ## Back
 - [Back to Notian Army](/OPAC-Brief/INTELLIGENCE/DUSS_Army.html) 
 - [Back to frontpage](https://132nd-vwing.github.io/OPAC-Brief/)

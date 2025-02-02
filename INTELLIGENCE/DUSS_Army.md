@@ -6,7 +6,7 @@
 - 11th Mechanized Division (BMP-3)
 - 12th Motorized Division (BTR-80)
 - 13th Air Defense Division
-- 14th Rocket artillery regiment
+- 14th Rocket Artillery Regiment
 - 15th Reconnaissance Regiment
 - 16th Helicopter Regiment
 - 17th Logistics Regiment
@@ -19,9 +19,9 @@
 - 21th Mechanized Division (BMP-1)
 - 22nd Motorized Division (BTR-80)
 - 23rd Air Defense Division
-- 24th Rocket artillery regiment
+- 24th Rocket Artillery Regiment
+- 25th Reconnaissance Regiment
 - 27th Logistics Regiment
-
 <br>
 <br>
 <br>
@@ -32,7 +32,7 @@
 - 31st Mechanized Division (BMP-2)
 - 32nd Motorized Division (BTR-80)
 - 33rd Air Defense Division
-- 34th Rocket artillery regiment
+- 34th Rocket Artillery regiment
 - 35th Reconnaissance Regiment
 - 36th Helicopter Regiment
 - 37th Logistics Regiment
@@ -41,11 +41,12 @@
 <br>
 <br>
 <br>
-[Notian Army 4th Corps - Reserves, need to be mobilized ](/OPAC-Brief/INTELLIGENCE/Notian_4th_Corps.html) 
+[Notian Army 4th Corps](/OPAC-Brief/INTELLIGENCE/Notian_4th_Corps.html) 
 - 41st Mechanized Division (BMP-1)
 - 42nd Mechanized Division (BMP-3)
+- 43rd Motorized Division (BTR-80)
 - 43rd Air Defense Division
-- 44th Rocket artillery regiment
+- 44th Rocket Artillery Regiment
 
 <br>
 <br>
