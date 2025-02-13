@@ -1,7 +1,7 @@
 # PRESETS
 
 - [A-10 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/A10_presetsto be.pdf) 
-- [F/A-18 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/F18_presetsto be.pdf)  
+- [F/A-18 Presets](/OPAC-Brief/COMMUNICATIONS/F18_presets.pdf)  
 - [F-16 Presets] (/OPAC-Brief/COMMUNICATIONS/F16_presets.pdf)  
 - [F-14 Presets - TO BE ISSUED](/OPAC-Brief/COMMUNICATIONS/F-14B_presetsto be.pdf)
 - [AH-64 Presets - TO BE ISSUED] (NOT UPDATED)
