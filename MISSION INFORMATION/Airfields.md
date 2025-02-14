@@ -14,6 +14,12 @@ Vuojarvi   | 391.15 | 391.65 | TBI      |
 Kittila    | 390.15 | 390.65 | TBI      |
 
 
+
+FARP        | ATIS   | TOWER  | TOWER (AI) |
+----        | ----   | ----   | --------   |
+FARP LONDON | 127.15 | 127.35 | 127.35     |
+
+
 FLIP: Not available at this time
 <br>
 		
