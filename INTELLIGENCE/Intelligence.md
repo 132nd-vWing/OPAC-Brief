@@ -4,6 +4,7 @@
 ### Basic Intelligence
 - [INTREP VID B-001 Generic Ground Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-001 Generic Ground Force Structure.pdf)
 - [INTREP VID B-002 Generic Air Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-002 Generic Air Force Structure.pdf)
+- [INTREP VIS Intelligence Preperation of the Battlefield, IPB](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 IPB.pdf)
 
 
 ### Notia as Candidate for Air attack
@@ -37,6 +38,10 @@
 <br>
 <br>
 ### VIS INTSUM
+- [INTREP VIS D0](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 INTSUM.pdf)
+- [VIS CombatFlite File (for planning) - IADS ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 IADS.cf)
+- [VIS CombatFlite File (for planning) - Ground ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 Ground.cf)
+- [VIS CombatFlite File (for planning) - Air ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 Air.cf)
 <br>
 <br>
 ### VIS INTREP

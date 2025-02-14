@@ -23,8 +23,8 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP) (TO BE ISSUED BY JFACC PRIOR TO D1) ](/OPAC-Brief/ORDERS/JFACC/TOBEISSUEDBYJFACC.pdf)
 <br>
-- [Targeting meeting for D0 TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR Targeting Meeting D12.pdf)
-- [Airspace Control Order (ACO) D0 (TO BE ISSUED)](/OPAR-Brief/ORDERS/JFACC/OPAR_D12_ACO.cf)
+- [Targeting meeting for D1 (TO BE ISSUED BY JFACC PRIOR TO D1)](/OPAC-Brief/ORDERS/JFACC/OPAC Targeting Meeting D12.pdf)
+- [Airspace Control Order (ACO) D0](/OPAC-Brief/ORDERS/JFACC/OPAR_D0_ACO.cf)
 
 <br>
 <br>
@@ -35,10 +35,10 @@
 - [Maintenance and logisitcal status](/OPAC-Brief/MISSION INFORMATION/Maintenance.html) 
 - [Standard Conventional Loads all aircrafts](/OPAC-Brief/MISSION INFORMATION/OPAC JFACC Standard Conventional Loads.xlsx)
 - [Presets and Datalink](/OPAC-Brief/COMMUNICATIONS/PRESETS.html) 
-- [SPINS (DRAFT, FINAL VERSION TO BE ISSUED)](/OPAC-Brief/MISSION INFORMATION/OPAC STANDING SPINS.pdf)
+- [SPINS](/OPAC-Brief/MISSION INFORMATION/OPAC STANDING SPINS.pdf)
 - [Airfield information](/OPAC-Brief/MISSION INFORMATION/Airfields.html)
 - [Carrier information - TO BE ISSUED PRIOR TO D5](/OPAC-Brief/MISSION INFORMATION/TOBEISSUEDBEFORED5.html)
-- [Airspace Control Plan (ACP) - TO BE ISSUED BY JFACC PRIOR TO D0](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBYJFACC.cf)
+- [Airspace Control Plan (ACP) - TO BE ISSUED BY JFACC PRIOR TO D1](/OPAR-Brief/MISSION INFORMATION/TOBEISSUEDBYJFACC.cf)
 
 - [AET-100 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC AET-100 Authentication Encruption Table.pdf)
 - [TAT-101 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC TAT-101 Transmission Authentication Table.pdf)
