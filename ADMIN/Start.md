@@ -19,6 +19,7 @@ All information can be found from the frontpage: [OPAC Frontpage](https://132nd-
 Start by reading the 132nd Multiplayer instructions to get access to server connection details for both DCS and SRS. The multiplayer instructions also 
 gives instruction on how to sign-up on the website under events.
 - [132nd Multiplayer instructions](https://cloud.132virtualwing.org/s/NDtZWdGmmwoe4ei)
+<br>
 In addition, it is recommended to use the 132nd Mission Data Card Builder for creating MDCs. The MDC builder have mission data built in. The best way to use the MDC builder 
 is to create the flight plan in CombatFlite, and then import the file in MDC builder and follow the steps to generate the kneeboard. The kneeboard can be shared and also
 export a .json file that can be used in DCS DTC(make sure to select PDF during download).
