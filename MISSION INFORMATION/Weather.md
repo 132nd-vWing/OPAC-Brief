@@ -15,7 +15,7 @@ G= Local In game time
 
 ### Weather forecast
 Weather: 
-TO BE UPDATED 3 DAYS BEFORE EVENT
+Day, calm wind from EAST, clear skies
 
 
 <br>
