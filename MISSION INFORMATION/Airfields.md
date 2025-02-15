@@ -24,8 +24,9 @@ FLIP: Not available at this time
 <br>
 
 ## Charts
-- [BANAK Aerodrome chart](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/ENNA_GND.PNG)
-- [BANAK VAC](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/ENNA_VAC.PNG)
+As of yet, we do not have custom made charts. See below for real charts. Disregard frequency information on these charts and use information stated above.
+- [BANAK Aerodrome chart](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/ENNA_GND.png)
+- [BANAK VAC](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/ENNA_VAC.png)
 <br>
 - [ROVANEMI Aerodrome chart](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFRO_ADC.pdf)
 - [ROVANEMI VAC](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFRO_VAC.pdf)
