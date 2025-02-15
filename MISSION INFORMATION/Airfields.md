@@ -30,6 +30,9 @@ As of yet, we do not have custom made charts. See below for real charts. Disrega
 <br>
 - [ROVANEMI Aerodrome chart](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFRO_ADC.pdf)
 - [ROVANEMI VAC](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFRO_VAC.pdf)
+<br>
+- [KITTILA Aerodrome chart](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFKT_ADC.pdf)
+- [KITTILA VAC](/OPAC-Brief/MISSION INFORMATION/AIRFIELDS/EF_AD_2_EFKT_VAC.pdf)
 		
 
 
