@@ -1,6 +1,9 @@
 # Introduction 
 <br>
-#### Version 1.0: Updated 2nd February 2025
+#### Version 1.1: Updated 15th February 2025
+v1.0: Initial version
+v1.1: Added information in step 1 about MDC builder and how to use CombatFlite with Kola.
+
 <br>
 If this is your first mission in OPAC you should start reading in the order listed below.
 Operation Arctic Citadel is a comprehensive campaign that will span over 30+ events. 
@@ -12,10 +15,16 @@ All information can be found from the frontpage: [OPAC Frontpage](https://132nd-
 <br>
 <br>
 
-#### Step 1: Multiplayer instructions
+#### Step 1: Multiplayer instructions / Data Card Builder
 Start by reading the 132nd Multiplayer instructions to get access to server connection details for both DCS and SRS. The multiplayer instructions also 
 gives instruction on how to sign-up on the website under events.
 - [132nd Multiplayer instructions](https://cloud.132virtualwing.org/s/NDtZWdGmmwoe4ei)
+In addition, it is recommended to use the 132nd Mission Data Card Builder for creating MDCs. The MDC builder have mission data built in. The best way to use the MDC builder 
+is to create the flight plan in CombatFlite, and then import the file in MDC builder and follow the steps to generate the kneeboard. The kneeboard can be shared and also
+export a .json file that can be used in DCS DTC(make sure to select PDF during download).
+- [132nd Mission Data Card Builder](https://mdc.132virtualwing.org/)
+- [How to use the Kola map with CombatFlite:](https://github.com/132nd-vWing/TRMA/issues/37)
+
 
 <br>
 <br>
