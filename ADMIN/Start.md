@@ -2,6 +2,7 @@
 <br>
 #### Version 1.1: Updated 15th February 2025
 v1.0: Initial version
+<br>
 v1.1: Added information in step 1 about MDC builder and how to use CombatFlite with Kola.
 
 <br>
