@@ -17,7 +17,7 @@
 - [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
 <br>
 - [CJTF 23 - Directions&Guidance for D1 (TO BE ISSUED BEFORE ATO DAY 1)](/OPAC-Brief/ORDERS/JFC/TOBEISSUED BY JFC.pdf)
-- [CJTF 23 - Update on friendly situation combatflite for D1 (TO BE ISSUED BEFORE ATO DAY 1) ](/OPAC-Brief/COMBATFLITE/TOBEISSUED BY JFC.cf)
+- [CJTF 23 - Update on friendly situation combatflite for D1](/OPAC-Brief/SITUATION/Friendly Situation.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
