@@ -1,6 +1,29 @@
 # Intelligence
 
-
+# Event specific intelligence reports
+<br>
+<br>
+### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
+- [INTSUM VID for D1](/OPAC-Brief/INTELLIGENCE/VID/INTSUM/OPAC VID INTSUM D0.pdf)
+<br>
+<br>
+### VIS INTSUM
+- [INTREP VIS for D1](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 INTSUM.pdf)
+- [VIS CombatFlite File (for planning) - IADS ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 IADS.cf)
+- [VIS CombatFlite File (for planning) - Ground ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Ground.cf)
+- [VIS CombatFlite File (for planning) - Air ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Air.cf)
+- [VIS CombatFlite File (for planning) - Maritime ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 MARITIME.cf)
+<br>
+<br>
+### VIS INTREP
+<br>
+<br>
+### VIS INTELLIGENCE REQUIREMENTS
+- [VIS Intelligence Requirements](/OPAC-Brief/INTELLIGENCE/VIS/OPAC - Intelligence Requirements.xlsx)
+<br>
+<br>
+<br>
+<br>
 ### Basic Intelligence
 - [INTREP VID B-001 Generic Ground Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-001 Generic Ground Force Structure.pdf)
 - [INTREP VID B-002 Generic Air Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-002 Generic Air Force Structure.pdf)
@@ -32,29 +55,8 @@
 <br>
 <br>
 <br>
-# Event specific intelligence reports
-<br>
-<br>
-### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [INTSUM VID for D1](/OPAC-Brief/INTELLIGENCE/VID/INTSUM/OPAC VID INTSUM D0.pdf)
-<br>
-<br>
-### VIS INTSUM
-- [INTREP VIS for D1](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 INTSUM.pdf)
-- [VIS CombatFlite File (for planning) - IADS ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 IADS.cf)
-- [VIS CombatFlite File (for planning) - Ground ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Ground.cf)
-- [VIS CombatFlite File (for planning) - Air ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Air.cf)
-- [VIS CombatFlite File (for planning) - Maritime ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 MARITIME.cf)
-<br>
-<br>
-### VIS INTREP
-<br>
-<br>
-### VIS INTELLIGENCE REQUIREMENTS
-- [VIS Intelligence Requirements](/OPAC-Brief/INTELLIGENCE/VIS/OPAC - Intelligence Requirements.xlsx)
-<br>
-<br>
-### Intelligence Archive (Intelligence from previous events)
+
+
 <br>
 <br>
 <br>
