@@ -59,7 +59,7 @@ In addition to the VIS INTSUMs there is several other Intelligence Reports (INTR
 Next you should read the JAOP. This is the Joint Force Air Component Commands (JFACC) plan for how the air component (which we all are a part of) should execute 
 the entire air campaign to solve the mission given in the CJTF-23 OP ORDER. This document is made fully by the volunteers (JFACC) based on availeble intelligence and guidance from 
 CJTF-23.
-- [Joint Air Operations Plan (JAOP) TO BE ISSUED BY JFACC PRIOR TO D1](/OPAR-Brief/ORDERS/JFACC/TBIBYJFACC.pdf)
+- [Joint Air Operations Plan (JAOP) TO BE ISSUED BY JFACC PRIOR TO D1](/OPAR-Brief/ORDERS/JFACC/OPAC JFACC JAOP 0.3.pdf)
 <br>
 <br>
 
