@@ -59,7 +59,7 @@ In addition to the VIS INTSUMs there is several other Intelligence Reports (INTR
 Next you should read the JAOP. This is the Joint Force Air Component Commands (JFACC) plan for how the air component (which we all are a part of) should execute 
 the entire air campaign to solve the mission given in the CJTF-23 OP ORDER. This document is made fully by the volunteers (JFACC) based on availeble intelligence and guidance from 
 CJTF-23.
-- [Joint Air Operations Plan (JAOP) TO BE ISSUED BY JFACC PRIOR TO D1](/OPAR-Brief/ORDERS/JFACC/OPAC JFACC JAOP 0.3.pdf)
+- [Joint Air Operations Plan (JAOP)](/OPAC-Brief/ORDERS/JFACC/OPAC JFACC JAOP 0.3.pdf)
 <br>
 <br>
 
@@ -113,7 +113,7 @@ which make the workflow for VIS volunteers much easier.
 - To report intelligence go to this website: [Campaign Manager](https://cm.132virtualwing.org/campaigns)
 - Follow the steps in the picture below:
 
-![How to report intelligence](/ADMIN/Report Intelligence instruction.png)
+![How to report intelligence](/OPAC-Brief//ADMIN/Report Intelligence instruction.png)
 
 This is the information that VIS uses to produce intelligence for upcoming missions, and JFACC uses as support to make decisions and provide direction and guidance.
 All locations should be given in the following format DD MM.MMM  DDD MM.MMM. This makes the job for VIS much easier, as they can just paste the coordinates into CombatFlite.
