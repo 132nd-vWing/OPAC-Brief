@@ -8,12 +8,14 @@
 <br>
 <br>
 ### VIS INTSUM
-- [INTREP VIS for D1](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 INTSUM.pdf)
-- [VIS CombatFlite File (for planning) - IADS ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 IADS.cf)
-- [VIS CombatFlite File (for planning) - Ground ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Ground.cf)
-- [VIS CombatFlite File (for planning) - Air ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 Air.cf)
+- [INTREP VIS for D2](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 INTSUM.pdf)
+- [VIS CombatFlite File (for planning) - Intelligence masterfile ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 INTELLIGENCE MASTERFILE.cf)
+- [VIS CombatFlite File (for planning) - IADS ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 IADS.cf)
+- [VIS CombatFlite File (for planning) - Ground ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 Ground.cf)
+- [VIS CombatFlite File (for planning) - Air ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 Air.cf)
 - [VIS CombatFlite File (for planning) - Maritime ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 MARITIME.cf)
 <br>
+- [INTREP VIS for D1](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 INTSUM.pdf)
 <br>
 ### VIS INTREP
 <br>

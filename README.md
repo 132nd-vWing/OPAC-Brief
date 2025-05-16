@@ -23,9 +23,9 @@
 ### Joint Force Air Component Commander (JFACC)
 - [Joint Air Operations Plan (JAOP)](/OPAC-Brief/ORDERS/JFACC/OPAC JFACC JAOP 0.3.pdf)
 <br>
-- [Targeting meeting for D1](/OPAC-Brief/ORDERS/JFACC/OPAC Targeting Meeting D1.pdf)
-- [Air Operations Directive (AOD) D1](/OPAC-Brief/ORDERS/JFACC/OPAC_JFACC_AOD_D1.pdf)
-- [Airspace Control Order (ACO) D1](/OPAC-Brief/ORDERS/JFACC/OPAC_D1_ACO.cf)
+- [Targeting meeting for D2](/OPAC-Brief/ORDERS/JFACC/OPAC Targeting Meeting D2.pdf)
+- [Air Operations Directive (AOD) D2](/OPAC-Brief/ORDERS/JFACC/OPAC_JFACC_AOD_D2.pdf)
+- [Airspace Control Order (ACO) D2](/OPAC-Brief/ORDERS/JFACC/OPAC_D2_ACO.cf)
 
 <br>
 <br>
