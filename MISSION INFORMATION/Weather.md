@@ -5,7 +5,7 @@ D2.1
 
 ### Time in mission
 Server will be started:
-- 1900Z. Time in game is then 0600G. (Sunrise is at 0722G)
+- 1700Z. Time in game is then 0600G. (Sunrise is at 0722G)
 
 
 Z= Real world time
