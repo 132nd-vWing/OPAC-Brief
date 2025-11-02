@@ -1,11 +1,11 @@
 # Weather and time
 
 ## Upcoming event
-D2.2
+D3.1
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 2300G. 
+- 1800Z. Time in game is then 0600G.  Sunrise 0730G
 
 
 Z= Real world time
@@ -14,8 +14,8 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-Weather: Night, clear skies, winds from South-East
-METAR: FEW/SCT 8/10 SCT 23/24 (Light scattered 2 in DCS ME), QNH29.99, Wind 4kts from 135 degrees, temperature 6 degrees
+Weather: Day, scattered, winds from South
+METAR: SCT 8/9 FEW 21 (High Scattered 1 in DCS ME), QNH 30.05, Wind 6kts from 6 degrees, temperature 6 degrees
 
 
 <br>
@@ -24,11 +24,12 @@ METAR: FEW/SCT 8/10 SCT 23/24 (Light scattered 2 in DCS ME), QNH29.99, Wind 4kts
 
 
 ## Weather forecast next events:
-- D2.2: Night, clear skies, winds from South-East
 - D3.1: Day, scattered, winds from South
 - D3.2: Night, overcast, winds from South-West
 - D4.1: Day, overcast, rain, winds from West
 - D4.2: Day into night, scattered, winds from North-West
+- D5.1: Day, clear skies, winds from West
+- D5.2: Night, clear skies, winds from South- West
 
 <br>
 <br>
