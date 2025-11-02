@@ -16,7 +16,7 @@
 ### Combined Joint Task Force-23 (CJTF-23) Orders
 - [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
 <br>
-- [CJTF 23 - Directions&Guidance for D2](/OPAC-Brief/ORDERS/JFC/OPAC JFC DIRECTION AND GUIDANCE D2.pdf)
+- [CJTF 23 - Directions&Guidance for D3](/OPAC-Brief/ORDERS/JFC/OPAC JFC DIRECTION AND GUIDANCE D3.pdf)
 - [CJTF 23 - Update on friendly situation combatflite for D1](/OPAC-Brief/SITUATION/Friendly Situation.cf)
 <br>
 <br>
