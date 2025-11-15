@@ -38,7 +38,7 @@
 - [Presets and Datalink](/OPAC-Brief/COMMUNICATIONS/PRESETS.html) 
 - [SPINS](/OPAC-Brief/MISSION INFORMATION/OPAC STANDING SPINS.pdf)
 - [Airfield information](/OPAC-Brief/MISSION INFORMATION/Airfields.html)
-- [Carrier information - TO BE ISSUED PRIOR TO D5](/OPAC-Brief/MISSION INFORMATION/TOBEISSUEDBEFORED5.html)
+- [Carrier information](/OPAC-Brief/MISSION INFORMATION/Carrier.html)
 - [Airspace Control Plan (ACP) - TO BE ISSUED BY JFACC PRIOR TO D1](/OPAR-Brief/ORDERS/JFACC/OPAC JFACC ACP 1.3.cf)
 
 - [AET-100 OPAC v1.0](/OPAC-Brief/MISSION INFORMATION/OPAC AET-100 Authentication Encruption Table.pdf)
