@@ -4,7 +4,7 @@
 <br>
 <br>
 ### Virtual Intelligence Directorate (VID) Intelligence summaries (INTSUM)
-- [INTSUM VID for D3](/OPAC-Brief/INTELLIGENCE/VID/INTSUM/OPAC VID INTSUM D2.pdf)
+- [INTSUM VID for D4](/OPAC-Brief/INTELLIGENCE/VID/INTSUM/OPAC VID INTSUM D3.pdf)
 <br>
 <br>
 ### VIS INTSUM
