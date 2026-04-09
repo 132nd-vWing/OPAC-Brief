@@ -1,9 +1,10 @@
 # Introduction 
 <br>
-#### Version 1.1: Updated 15th February 2025
+#### Version 1.2: Updated 9th April 2026
 v1.0: Initial version
 <br>
 v1.1: Added information in step 1 about MDC builder and how to use CombatFlite with Kola.
+v1.2: Added information about change from OvGME to Open Mod Manager
 
 <br>
 If this is your first mission in OPAC you should start reading in the order listed below.
@@ -24,6 +25,21 @@ gives instruction on how to sign-up on the website under events.
 In addition, it is recommended to use the 132nd Mission Data Card Builder for creating MDCs. The MDC builder have mission data built in. The best way to use the MDC builder 
 is to create the flight plan in CombatFlite, and then import the file in MDC builder and follow the steps to generate the kneeboard. The kneeboard can be shared and also
 export a .json file that can be used in DCS DTC(make sure to select PDF during download).
+<br>
+Furthermore the 132nd have from the 9th of April changed from OvGME to Open Mod Manager for handling skins and mods. Until the multiplayer instructions are updated, 
+the following information can be used for downloading mods and skins from the 132nd repository using Open Mod Manager (OMM)
+For Saved Games:
+Base adress: http://132virtualwing.org/files/ovgme/omm/DCS_saved_games_132
+Name:
+DCS_132_Saved_Games_Repo
+
+For Main Folder:
+Base adress:
+http://132virtualwing.org/files/ovgme/omm/DCS_main_132
+Name:
+132_DCS_Root_Main_Repo
+<br>
+<br>
 - [132nd Mission Data Card Builder](https://mdc.132virtualwing.org/)
 - [How to use the Kola map with CombatFlite:](https://github.com/132nd-vWing/TRMA/issues/37)
 
