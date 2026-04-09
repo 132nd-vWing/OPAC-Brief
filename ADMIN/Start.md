@@ -30,12 +30,15 @@ Furthermore the 132nd have from the 9th of April changed from OvGME to Open Mod 
 the following information can be used for downloading mods and skins from the 132nd repository using Open Mod Manager (OMM):<br>
 
 For Saved Games:
+
 Base adress: http://132virtualwing.org/files/ovgme/omm/DCS_saved_games_132
 
 Name:
 DCS_132_Saved_Games_Repo
-
+<br>
+<br>
 For Main Folder:
+
 Base adress:
 http://132virtualwing.org/files/ovgme/omm/DCS_main_132
 
