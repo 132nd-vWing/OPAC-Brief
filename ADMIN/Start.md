@@ -24,10 +24,11 @@ gives instruction on how to sign-up on the website under events.
 <br>
 In addition, it is recommended to use the 132nd Mission Data Card Builder for creating MDCs. The MDC builder have mission data built in. The best way to use the MDC builder 
 is to create the flight plan in CombatFlite, and then import the file in MDC builder and follow the steps to generate the kneeboard. The kneeboard can be shared and also
-export a .json file that can be used in DCS DTC(make sure to select PDF during download).
-<br>
+export a .json file that can be used in DCS DTC(make sure to select PDF during download).<br>
+
 Furthermore the 132nd have from the 9th of April changed from OvGME to Open Mod Manager for handling skins and mods. Until the multiplayer instructions are updated, 
-the following information can be used for downloading mods and skins from the 132nd repository using Open Mod Manager (OMM)
+the following information can be used for downloading mods and skins from the 132nd repository using Open Mod Manager (OMM):<br>
+
 For Saved Games:
 Base adress: http://132virtualwing.org/files/ovgme/omm/DCS_saved_games_132
 Name:
