@@ -5,7 +5,7 @@ D4.2
 
 ### Time in mission
 Server will be started:
-- 1800Z. Time in game is then 1600G.   Sunset is at 1910G
+- 1700Z. Time in game is then 1600G.   Sunset is at 1910G
 
 
 Z= Real world time
