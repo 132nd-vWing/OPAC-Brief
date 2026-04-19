@@ -16,8 +16,8 @@
 ### Combined Joint Task Force-23 (CJTF-23) Orders
 - [CJTF-23 Operations Order](/OPAC-Brief/ORDERS/JFC/OPAC_CJTF23_OPERATION ORDER.pdf)
 <br>
-- [CJTF 23 - Directions&Guidance for D4](/OPAC-Brief/ORDERS/JFC/OPAC JFC DIRECTION AND GUIDANCE D4.pdf)
-- [CJTF 23 - Update on friendly situation combatflite for D1](/OPAC-Brief/SITUATION/Friendly Situation.cf)
+- [CJTF 23 - Directions&Guidance for D5](/OPAC-Brief/ORDERS/JFC/OPAC JFC DIRECTION AND GUIDANCE D5.pdf)
+- [CJTF 23 - Update on friendly situation combatflite](/OPAC-Brief/SITUATION/Friendly Situation.cf)
 <br>
 <br>
 ### Joint Force Air Component Commander (JFACC)
