@@ -8,17 +8,18 @@
 <br>
 <br>
 ### VIS INTSUM
-- [INTREP VIS for D5](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D5 INTSUM.pdf)
-- [VIS CombatFlite File (for planning) - Intelligence masterfile ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D5 INTELLIGENCE MASTERFILE.cf)
-- [VIS CombatFlite File (for planning) - IADS (D5)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D5 IADS.cf)
-- [VIS CombatFlite File (for planning) - Ground (D5)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D4 Ground.cf)
-- [VIS CombatFlite File (for planning) - Air (NOT UPDATED FOR D4)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 Air.cf)
-- [VIS CombatFlite File (for planning) - Maritime(D5) ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D5 MARITIME.cf)
+- [INTREP VIS for D6](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 INTSUM.pdf)
+- [VIS CombatFlite File (for planning) - Intelligence masterfile ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 INTELLIGENCE MASTERFILE.cf)
+- [VIS CombatFlite File (for planning) - IADS (D6)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 IADS.cf)
+- [VIS CombatFlite File (for planning) - Ground (D6)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 Ground.cf)
+- [VIS CombatFlite File (for planning) - Air (NOT UPDATED FOR D6)](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 Air.cf)
+- [VIS CombatFlite File (for planning) - Maritime(D6) ](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D6 MARITIME.cf)
 <br>
 - [INTREP VIS for D1](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D1 INTSUM.pdf)
 - [INTREP VIS for D2](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D2 INTSUM.pdf)
 - [INTREP VIS for D3](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D3 INTSUM.pdf)
 - [INTREP VIS for D4](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D4 INTSUM.pdf)
+- [INTREP VIS for D5](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D5 INTSUM.pdf)
 <br>
 ### VIS INTREP
 - [INTREP VIS - XILONG AIR ASSETS](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS XILONG AIR ASSETS.pdf)
