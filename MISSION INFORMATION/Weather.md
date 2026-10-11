@@ -1,11 +1,11 @@
 # Weather and time
 
 ## Upcoming event
-D6.2
+D7.1
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 1500G.   Sunset is at 1900G.
+- 1700Z. Time in game is then 0600G.   Sunrise is at 0745G.
 
 
 Z= Real world time
@@ -14,9 +14,9 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-Weather: Day, overcast, winds from South-East
-METAR: BKN LYR 11/14 18/25 SCT 32/35
-( Overcast 3 in DCS ME), QNH 29.82, Wind 6kts from 135 degrees, temperature 8 degrees
+Weather: Night to day, clear skies, winds from South
+METAR: FEW/SCT 8/10 SCT 23/24
+( Light scattered 2 in DCS ME), QNH 30.02, Wind 6kts from 179 degrees, temperature 2 degrees
 
 
 <br>
@@ -25,12 +25,13 @@ METAR: BKN LYR 11/14 18/25 SCT 32/35
 
 
 ## Weather forecast next events:
-- D6.1: Day, scattered , winds from East
-- D6.2: Day, overcast, winds from South-East
+
 - D7.1: Night to day, clear skies, winds from South
 - D7.2: Day, clear skies, winds from South-West
 - D8.1: Day to night, scattered, winds from West
 - D8.2: Night, clear skies, winds from North-West
+- D9.1: Day, scatteres, winds from North
+- D9.2: Day, overcast, winds from North-East
 
 <br>
 <br>
