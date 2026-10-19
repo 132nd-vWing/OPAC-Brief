@@ -34,6 +34,7 @@
 ### Basic Intelligence
 - [INTREP VID B-001 Generic Ground Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-001 Generic Ground Force Structure.pdf)
 - [INTREP VID B-002 Generic Air Force Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-002 Generic Air Force Structure.pdf)
+- [INTREP VID B-003 Generic Navy Structure](/OPAC-Brief/INTELLIGENCE/VID/INTREP VID B-003 Generic Navy Structure.pdf)
 - [INTREP VIS Intelligence Preperation of the Battlefield, IPB](/OPAC-Brief/INTELLIGENCE/VIS/OPAC VIS D0 IPB.pdf)
 - [INTREP VIS Intelligence Preperation of the Battlefield (text), IPB](/OPAC-Brief/INTELLIGENCE/VIS/OPAC_VIS_D0_IPB_TEXT.pdf)
 
