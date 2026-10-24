@@ -5,7 +5,7 @@ D7.1
 
 ### Time in mission
 Server will be started:
-- 1700Z. Time in game is then 0600G.   Sunrise is at 0745G.
+- 1900 CET (1700Z summertime/1800Z wintertime). Time in game is then 0600G.   Sunrise is at 0745G.
 
 
 Z= Real world time
