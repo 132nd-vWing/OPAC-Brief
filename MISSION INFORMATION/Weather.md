@@ -14,7 +14,7 @@ G= Local In game time
 <br>
 
 ### Weather forecast
-Weather: Night to day, clear skies, winds from South
+Weather: clear skies, winds from South-West
 METAR: FEW/SCT 8/10 
 (Light scattered 1 in DCS ME), QNH 30.05, Wind 6kts from 233 degrees, temperature 7 degrees
 
